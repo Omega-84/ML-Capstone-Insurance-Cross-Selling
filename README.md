@@ -1,4 +1,4 @@
-# ML-Capstone-Insurance-Cross-Selling
+# ML-Capstone-Classification
 
 # Health Insurance Cross Sell Prediction: Project Overview
 
